@@ -3,12 +3,14 @@
 </p>
 
 <h1 align="center">T-RamCash</h1>
+<p align="center">🌐 <strong>Desteklenen Diller:</strong> Türkçe (TR) · English (EN) · Deutsch (DE)</p>
 
 <p align="center">
   <a href="https://github.com/taha-sa/t-ramcash-releases/releases/latest">
     <img src="https://img.shields.io/github/v/release/taha-sa/t-ramcash-releases?style=flat-square&label=Latest%20Release&color=gold" alt="Latest Release" />
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows%20x64-blue?style=flat-square" alt="Platform" />
+  <img src="https://img.shields.io/badge/Diller-T%C3%BCrk%C3%A7e%20%7C%20English%20%7C%20Deutsch-blueviolet?style=flat-square" alt="Diller: Türkçe, English, Deutsch" />
   <a href="https://github.com/taha-sa/t-ramcash-releases/releases">
     <img src="https://img.shields.io/github/downloads/taha-sa/t-ramcash-releases/total?style=flat-square&label=Downloads&color=success" alt="Downloads" />
   </a>
